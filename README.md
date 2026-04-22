@@ -1,2 +1,2 @@
 # Mud-Shrimp
-index.htm
+index.html
